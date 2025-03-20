@@ -3,3 +3,5 @@ This project uses Gemma-3 vision capabilities and Streamlit to create a 100% loc
 Model used: **Gemma3:4b from Ollama**
 
 ![Gemma-3-OCR-03-19-2025_05_36_AM](https://github.com/user-attachments/assets/bfe89556-376b-4ea0-8308-e5294187c23b)
+<br>
+**Note**: Due to hardware limitations, this model is not giving 100% accurate results because I have used a 4b Parameters model. To get accurate results, you can use the 12b parameters model from Ollama
